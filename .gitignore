@@ -2,4 +2,7 @@ target
 dist
 nbproject
 bin
-.*
+
+.project
+.classpath
+.settings/
